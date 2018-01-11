@@ -1,0 +1,5 @@
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.platform.base.framework.trunk.core.configure.auto.redis.RedisAutoConfig,\
+com.platform.base.framework.trunk.core.configure.auto.script.ScriptManagerAutoConfiguration,\
+com.platform.base.framework.trunk.core.configure.auto.interceptor.InterceptorAutoConfiguration

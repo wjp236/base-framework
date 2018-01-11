@@ -1,0 +1,2 @@
+loggerFilter=com.platform.base.framework.trunk.core.dubbo.filter.LoggerFilter
+exceptionFilter=com.platform.base.framework.trunk.core.dubbo.filter.ExceptionFilter
